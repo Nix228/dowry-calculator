@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+#result {
+  color: green;
+  background-color: lightyellow;
+  padding: 10px;
+  border: 1px solid green;
+  width: fit-content;
+}
